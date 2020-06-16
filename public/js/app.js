@@ -1,5 +1,3 @@
-console.log("client side js file is loaded");
-
 // Fetch browser API
 
 const weatherForm = document.querySelector("form");
